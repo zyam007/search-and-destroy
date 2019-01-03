@@ -1,7 +1,17 @@
 'use strict';
 
-const binarySearch = (array, target, left = 0, right = array.length) => {
-	// your code here
+// Complete this algo
+const binarySearch = (array, target) => {
+	
 };
+
+/*
+	EXTRA CREDIT:
+
+	Can you augment the function above to run in constant O(1) space?
+	This means, you cannot edit/copy the original array!
+	How can we use other pieces of data, like pointers, to avoid slicing?
+
+*/
 
 module.exports = binarySearch
