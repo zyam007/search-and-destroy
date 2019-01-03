@@ -1,7 +1,7 @@
 'use strict';
 
 //Complete this algo
-const isLoop = (headNode) => {
+const isLoop = (linkedlist) => {
 
 };
 
