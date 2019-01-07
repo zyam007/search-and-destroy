@@ -13,7 +13,7 @@ describe('min number of jumps', () => {
 		expect(minJumps(test1)).to.equal(1);
 		expect(minJumps(test2)).to.equal(1);
 		expect(minJumps(test3)).to.equal(2);
-		expect(minJumps(test4)).to.equal(3);
+		expect(minJumps(test4)).to.equal(2);
 		
 		//WRITE YOUR OWN TESTS HERE. Include >=1 edge case :)
 	});
