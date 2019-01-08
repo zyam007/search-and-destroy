@@ -20,6 +20,6 @@ describe('Binary Search', () => {
 		expect(binarySearch(test3, 4)).to.equal(false);
 	});
 
-	//WRITE YOUR OWN TESTS HERE. Include >=1 edge case :)
+	//(OPTIONAL) WRITE YOUR OWN TESTS HERE. Include >=1 edge case :)
 
 });
